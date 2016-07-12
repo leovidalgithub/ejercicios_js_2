@@ -1,0 +1,31 @@
+*{margin: 0;
+padding: 0;}
+body{
+	background-color: #C7B4E1;
+	font-family: monospace;
+}
+section{
+	width: 90%;
+	height: auto;
+	margin: 15px auto;
+	background-color: #DDD1ED; 
+	display: flex;
+	flex-flow: row wrap;
+	justify-content:space-around;
+	align-items: center;
+}
+div{
+	width: 240px;
+	height: 280px;
+	margin: 10px;
+	padding: 12px;
+	color:#D3DBF1;
+	border-radius: 8px;
+	font-size: 17px;
+	background-color: #888282;
+}
+h3{
+	color:white;
+	text-align: center;
+	padding-bottom: 15px;
+}
